@@ -86,12 +86,15 @@ https://malwaredissection.com
 
 * Counterterrorism Behavioural Detection training review  
 LinkedIn
+https://www.linkedin.com/posts/nbak_if-you-work-in-cti-crimint-or-counterterrorism-activity-7417581407566426112-UkOv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEmM6oBYoXlbRwuXYQZOKHRUlJUncdreKE
 
 * Python for Malware Analysis (Comment Python nous aide à analyser un malware)  
 Programmez! Magazine
+https://www.programmez.com/magazine/article/comment-python-nous-aide-analyser-un-malware  
 
 * CVE 2023 46805 and CVE 2024 21887 for Ivanti Connect Secure and Ivanti Policy Secure Gateways  
 Senthorus Blog
+https://blog.senthorus.ch/posts/cve_2023_46805_cve_2024_21887/ 
 
 * The Nightmare Of Destructive Malware From Wiper To SwiftSlicer  
 SentinelOne Blog  
@@ -105,6 +108,7 @@ Senthorus Blog
 
 * Malware à logique évènementielle  
 Programmez! Magazine
+https://www.programmez.com/magazine/article/malwares-logique-evenementielle
 
 * Sécuriser les serveurs Microsoft détection de failles les outils  
 LinkedIn
