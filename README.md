@@ -81,7 +81,7 @@ Tableau Forensics
 
 ## 📚 Publications and Writing
 
-*Averserial attacks : will be punlished in september 2026. 
+*Adverserial attacks : will be punlished in september 2026. 
 *Prompt injection: will be published in october 2026. 
 
 * Breaking Vision Models with Invisible Perturbations  
